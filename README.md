@@ -296,6 +296,16 @@ Returns logged-in user details.
 ![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg)
 <p align="center"><em>Overview of Zerodha partner investment and trading services.</em></p>
 
+![About Page]([./assets/about.jpg](https://github.com/Gayatrip-26/Zerodha_clone/blob/db48756cb9511afa7167eaeacace6d6c0609b0f5/about.jpg))
+<p align="center"><em>Overview of Zerodha and its founder, Nithin Kamath.</em></p>
+
+![Product Page]([./assets/product.jpg](https://github.com/Gayatrip-26/Zerodha_clone/blob/db48756cb9511afa7167eaeacace6d6c0609b0f5/product_page.jpg))
+<p align="center"><em>Technology and investment offerings including Kite platform.</em></p>
+
+![Support Page]([./assets/support.jpg](https://github.com/Gayatrip-26/Zerodha_clone/blob/db48756cb9511afa7167eaeacace6d6c0609b0f5/support_portal.jpg))
+<p align="center"><em>Support portal with ticket tracking and help topics.</em></p>
+
+
 
 ---
 
