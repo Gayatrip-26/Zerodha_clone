@@ -281,7 +281,7 @@ Returns logged-in user details.
 ### 🎬 Demo Video (Example Format)
 
 
-👉 [Watch Demo Video](https://github.com/Gayatrip-26/Zerodha_clone/blob/2a8bf6f720369f694df69d307aa2cc9222b13e45/project_vedio.mp4)
+👉 [Download and Watch Video](https://github.com/Gayatrip-26/Zerodha_clone/blob/2a8bf6f720369f694df69d307aa2cc9222b13e45/project_vedio.mp4)
 
 
 
