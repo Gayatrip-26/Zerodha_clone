@@ -281,20 +281,20 @@ Returns logged-in user details.
 
 # 📸 Screenshots
 
-![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg))  
-*Zerodha account signup page with brokerage details.*
+![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg)
+                                 *Zerodha account signup page with brokerage details.*
 
 ![Dashboard](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/dashboard.jpg)  
-*Equity holdings dashboard with pie chart visualization.*
+                                *Equity holdings dashboard with pie chart visualization.*
 
-![Portfolio Overview](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/user_portfolio.jpg))  
-*Portfolio showing stock list, prices, and margin.*
+![Portfolio Overview](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/user_portfolio.jpg) 
+                                      *Portfolio showing stock list, prices, and margin.*
 
-![Pricing Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/pricing.jpg))  
-*Zerodha pricing and charges overview.*
+![Pricing Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/pricing.jpg)  
+                                            *Zerodha pricing and charges overview.*
 
-![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg))  
-*Overview of Zerodha partner investment and trading services.*
+![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg) 
+                                *Overview of Zerodha partner investment and trading services.*
 
 
 ---
