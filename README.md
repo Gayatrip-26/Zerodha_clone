@@ -1,33 +1,310 @@
-#backend
-1️⃣ Go to the backend folder 
+---
 
-2️⃣ npm init ----------- This command is to initialize the express application (package.json file)
-   npm init -y ---------This command to give default ans automatically .
+# 📈 Zerodha Clone – Full-Stack Trading Platform (MERN)
 
-3️⃣ npm i -D nodemon ---------- (-D means Dev dependency) This command to add nodemon on your json 
-   file.
-   for this first write "start":"nodemon index.js" in script.
-   Nodemon is a package(or dependency which is continuosly running the server) that automatically 
-   restarts the node application when file changes in the directory are detected.
+A full-stack clone of **Zerodha**, built using **MERN**, featuring authentication, dashboard UI, live charts integration, and secure backend APIs.
 
-4️⃣ npm i express body-parser cors dotenv mongoose passport passport-local  passport-local-mongoose
-   
-1. Core Express & Middleware:
-express → A web framework for Node.js, used to build web applications and APIs.
+![Tech](https://img.shields.io/badge/Tech-MERN%20%7C%20Node%20%7C%20Express%20%7C%20MongoDB-blue)
+![Status](https://img.shields.io/badge/Project_Status-Completed-green)
 
-body-parser → Middleware for parsing incoming request bodies (JSON, URL-encoded).
 
-cors → Middleware for handling Cross-Origin Resource Sharing (CORS) to allow requests from different origins.
 
-2. Environment Configuration:
-dotenv → Loads environment variables from a .env file, keeping sensitive data secure.
+---
 
-3. Database (MongoDB & Mongoose):
-mongoose → ODM (Object Data Modeling) library for MongoDB, used to structure and interact with databases in an object-oriented way.
+## 📌 Table of Contents
 
-4. Authentication (Passport.js & Strategies):
-passport → Authentication middleware for Node.js, used for handling login systems.
+* [Overview](#overview)
+* [Features](#features)
+* [Tech Stack](#tech-stack)
+* [Project Structure](#project-structure)
+* [Backend Setup](#backend-setup)
+* [Frontend Setup](#frontend-setup)
+* [Environment Variables](#environment-variables)
+* [API Overview](#api-overview)
+* [Screenshots](#screenshots)
+* [Author](#author)
 
-passport-local → A Passport.js strategy for local username/password authentication.
+---
 
-passport-local-mongoose → Mongoose plugin that simplifies user authentication and session management with Passport.js.
+## 🚀 Overview
+
+This **Zerodha Clone** project simulates core features of the popular trading platform Zerodha, including:
+
+✔️ User authentication
+✔️ Login / Signup with Passport.js
+✔️ Dashboard with trading UI
+✔️ Stock data model
+✔️ MongoDB database integration
+
+---
+
+## 🔑 Features
+
+### 🔐 Authentication
+
+* User registration
+* Login with username & password
+* Secure password hashing
+* Session-based login with Passport.js
+
+### 📊 Dashboard
+
+* Stocks section
+* Basic UI similar to Zerodha
+* Placeholder charts / positions / holdings
+
+### 🗂️ Database Models
+
+* Users
+* Stock schemas
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+* React.js
+* HTML / CSS
+* Basic components (Login, Dashboard)
+
+### **Backend**
+
+* Node.js
+* Express.js
+* Passport.js (Authentication)
+* Mongoose (MongoDB ODM)
+
+### **Database**
+
+* MongoDB
+
+### **Other Tools**
+
+* Nodemon
+* dotenv
+* CORS
+* Body-parser
+
+---
+
+## 📁 Project Structure
+
+Your actual structure:
+
+```
+Zerodha_clone/
+│
+├── backend/
+│   ├── model/
+│   ├── schemas/
+│   ├── .env
+│   ├── index.js
+│   ├── package.json
+│   └── package-lock.json
+│
+├── dashboard/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── package-lock.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── package-lock.json
+```
+
+---
+
+# ⚙️ Backend Setup
+
+## 1️⃣ Go to backend folder
+
+```bash
+cd backend
+```
+
+---
+
+## 2️⃣ Initialize Node Project
+
+If starting fresh:
+
+```bash
+npm init
+```
+
+OR for auto defaults:
+
+```bash
+npm init -y
+```
+
+This creates **package.json**.
+
+---
+
+## 3️⃣ Install Nodemon (Dev Dependency)
+
+```bash
+npm i -D nodemon
+```
+
+✔ Add this inside **package.json → scripts**:
+
+```json
+"scripts": {
+  "start": "nodemon index.js"
+}
+```
+
+🔄 **Nodemon automatically restarts the server** when file changes are detected.
+
+---
+
+## 4️⃣ Install All Required Dependencies
+
+```bash
+npm i express body-parser cors dotenv mongoose passport passport-local passport-local-mongoose
+```
+
+### ✔ Breakdown of Dependencies
+
+#### **1. Core Express & Middleware**
+
+| Package         | Usage                                 |
+| --------------- | ------------------------------------- |
+| **express**     | Main framework for backend API        |
+| **body-parser** | Parses JSON / form-data               |
+| **cors**        | Allows frontend–backend communication |
+
+#### **2. Environment Variables**
+
+| Package    | Usage                            |
+| ---------- | -------------------------------- |
+| **dotenv** | Loads `.env` values for security |
+
+#### **3. Database**
+
+| Package      | Usage                   |
+| ------------ | ----------------------- |
+| **mongoose** | MongoDB object modeling |
+
+#### **4. Authentication (Passport.js)**
+
+| Package                     | Usage                            |
+| --------------------------- | -------------------------------- |
+| **passport**                | Middleware for authentication    |
+| **passport-local**          | Username/password login          |
+| **passport-local-mongoose** | Auto-hashing, sessions for users |
+
+---
+
+## ▶️ Start Backend Server
+
+```bash
+npm start
+```
+
+Backend runs by default on:
+
+```
+http://localhost:5000
+```
+
+---
+
+# 🎨 Frontend Setup (Dashboard + Login UI)
+
+You have **two frontend folders**:
+
+🟦 `/dashboard` → After login
+🟩 `/frontend` → Login / Signup
+
+(You can later merge if you want.)
+
+---
+
+## ▶️ Run Dashboard
+
+```bash
+cd dashboard
+npm install
+npm start
+```
+
+---
+
+## ▶️ Run Login Frontend
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+---
+
+# 🔐 Environment Variables
+
+Create a `.env` file inside **backend/**:
+
+```
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+SESSION_SECRET=your_secret_key
+```
+
+---
+
+# 📡 API Overview
+
+### **🔹 POST /register**
+
+Registers a new user.
+
+### **🔹 POST /login**
+
+Logs in and starts a Passport session.
+
+### **🔹 GET /logout**
+
+Logs out user.
+
+### **🔹 GET /user**
+
+Returns logged-in user details.
+
+---
+### 🎬 Demo Video (Example Format)
+
+
+👉 [Watch Demo Video](https://github.com/Gayatrip-26/Zerodha_clone/blob/2a8bf6f720369f694df69d307aa2cc9222b13e45/project_vedio.mp4)
+
+
+
+---
+
+
+# 📸 Screenshots
+
+(Add yours here later)
+
+```
+![Login](./assets/login.png)
+![Dashboard](./assets/dashboard.png)
+```
+
+---
+
+# 👩‍💻 Author
+
+**Gayatri Patil**
+📧 Email: your-email
+🐙 GitHub: [https://github.com/Gayatrip-26](https://github.com/Gayatrip-26)
+
+---
+
+
