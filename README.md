@@ -281,30 +281,20 @@ Returns logged-in user details.
 
 # 📸 Screenshots
 
-<p align="center">
-![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg)  <br>
-  <em>Zerodha account signup page with brokerage details.</em>
-</p>
+![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg)
+<p align="center"><em>Zerodha account signup page with brokerage details.</em></p>
 
-<p align="center">
-![Dashboard](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/dashboard.jpg)  <br>
-  <em>Equity holdings dashboard with pie chart visualization.</em>
-</p>
+![Dashboard](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/dashboard.jpg)
+<p align="center"><em>Equity holdings dashboard with pie chart visualization.</em></p>
 
-<p align="center">
-![Portfolio Overview](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/user_portfolio.jpg)  <br>
-  <em>Portfolio showing stock list, prices, and margin.</em>
-</p>
+![Portfolio Overview](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/user_portfolio.jpg)
+<p align="center"><em>Portfolio showing stock list, prices, and margin.</em></p>
 
-<p align="center">
-![Pricing Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/pricing.jpg)  <br>
-  <em>Zerodha pricing and charges overview.</em>
-</p>
+![Pricing Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/pricing.jpg)
+<p align="center"><em>Zerodha pricing and charges overview.</em></p>
 
-<p align="center">
-![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg)  <br>
-  <em>Overview of Zerodha partner investment and trading services.</em>
-</p>
+![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg)
+<p align="center"><em>Overview of Zerodha partner investment and trading services.</em></p>
 
 
 ---
