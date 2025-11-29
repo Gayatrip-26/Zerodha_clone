@@ -278,24 +278,24 @@ Logs out user.
 Returns logged-in user details.
 
 ---
-### 🎬 Demo Video (Example Format)
-
-
-👉 [Download Video](https://github.com/Gayatrip-26/Zerodha_clone/blob/main/project_vedio.mp4?raw=true)
-
-
-
----
-
 
 # 📸 Screenshots
 
-(Add yours here later)
+![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg))  
+*Zerodha account signup page with brokerage details.*
 
-```
-![Login](./assets/login.png)
-![Dashboard](./assets/dashboard.png)
-```
+![Dashboard](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/dashboard.jpg)  
+*Equity holdings dashboard with pie chart visualization.*
+
+![Portfolio Overview](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/user_portfolio.jpg))  
+*Portfolio showing stock list, prices, and margin.*
+
+![Pricing Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/pricing.jpg))  
+*Zerodha pricing and charges overview.*
+
+![Partner Platforms](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/services.jpg))  
+*Overview of Zerodha partner investment and trading services.*
+
 
 ---
 
