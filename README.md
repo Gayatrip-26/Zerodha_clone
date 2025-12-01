@@ -281,6 +281,10 @@ Returns logged-in user details.
 
 # 📸 Screenshots
 
+
+![Dash Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/89c8c7a4fa9d955537e58b5ba94c8cabfebb63be/zero.jpg)
+<p align="center"><em>Main Dashboard Page of Zerodha Trading Platform.</em></p>
+
 ![Signup Page](https://github.com/Gayatrip-26/Zerodha_clone/blob/9a6041da3bad50f4d026b355bd30bfeeefe85aab/signup.jpg)
 <p align="center"><em>Zerodha account signup page with brokerage details.</em></p>
 
