@@ -313,11 +313,17 @@ Returns logged-in user details.
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 Contribution
 
 **Gayatri Patil**
 📧 Email: gayatripp26@gmail.com
 🐙 GitHub: [https://github.com/Gayatrip-26](https://github.com/Gayatrip-26)
+
+**Aishwarya Jadhav** 🐙 GitHub: - [https://github.com/Aishwaryajadhav11](https://github.com/Aishwaryajadhav11) 
+
+**Ruchita Chaudhari** 🐙 GitHub: [https://github.com/Ruchit1205](https://github.com/Ruchit1205) 
+
+**Bhagyashri Jadhav** 🐙 GitHub: [https://github.com/bhagyshri-int](https://github.com/bhagyshri-int) 
 
 ---
 
